@@ -1,4 +1,3 @@
-.
 # Colliding Boxes Computing Pi
 
 A Python program that visualizes the "colliding boxes computing pi" problem, famously demonstrated by 3Blue1Brown. This simulation shows how the number of elastic collisions between two boxes and a wall can be used to compute the digits of pi.
@@ -6,6 +5,8 @@ A Python program that visualizes the "colliding boxes computing pi" problem, fam
 ## About the Project 📐
 
 This program simulates two boxes on a one-dimensional, frictionless surface. The small box is stationary at the beginning, while a massive box moves towards it. The boxes collide with each other and with a wall, and the program counts each collision. The number of collisions that occur is a direct approximation of pi, with the number of digits determined by the mass ratio of the boxes.
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/08b73f40-19ce-482c-a6bd-f923ede8f41c" />
+
 
 ## How to Run the Program 🚀
 
